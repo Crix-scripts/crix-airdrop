@@ -1,4 +1,3 @@
-# crix-airdrop
 🔧 Funkce
 📦 Více typů dropů: munice, jídlo, zbraně, lékárničky, náhodné loot boxy
 
@@ -31,4 +30,15 @@ Military Roleplay
 Lootbox Systém pro přežití
 
 Odměny pro hráče
+
+📦 Instalace
+Stáhni a vlož složku do resources/
+
+Přidej do server.cfg:
+
+ruby
+Zkopírovat
+Upravit
+ensure airdrop-script
+Nakonfiguruj vše v config.lua
 
