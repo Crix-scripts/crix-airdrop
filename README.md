@@ -1,11 +1,10 @@
-🔧 Funkce
+**🔧 Funkce**
+
 📦 Více typů dropů: munice, jídlo, zbraně, lékárničky, náhodné loot boxy
 
 ✈️ Reálný přílet letadla (Titan/Cargobob) s možností volby modelu
 
 🎯 Náhodná nebo určená pozice dopadu
-
-🔥 Efekty při dopadu – kouř, světlice, zvuk letounu
 
 🔐 Uzamčený drop – možnost otevřít pouze s klíčem nebo přístupovým kódem
 
@@ -22,7 +21,8 @@ ox_target nebo qb-target
 
 fxmanifest.lua
 
-🧠 Využití
+**🧠 Využití**
+
 PvP Eventy
 
 Military Roleplay
@@ -31,12 +31,12 @@ Lootbox Systém pro přežití
 
 Odměny pro hráče
 
-📦 Instalace
+**📦 Instalace**
+
 Stáhni a vlož složku do resources/
 
 Přidej do server.cfg:
 
-ruby
 Zkopírovat
 Upravit
 ensure airdrop-script
