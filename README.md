@@ -1,0 +1,2 @@
+# crix-airdrop
+🔧 Funkce
